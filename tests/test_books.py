@@ -52,4 +52,3 @@ class TestBooks:
             "a string value was provided for the total price, which is required to be an "
             "integer according to the documentation.")
 
-    
