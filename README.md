@@ -8,4 +8,4 @@ imports used:
 - requests 2.31.0
 - pytest 8.0.1
 - pytest-html 4.1.1
-- assertpy==1.1
+- assertpy 1.1
