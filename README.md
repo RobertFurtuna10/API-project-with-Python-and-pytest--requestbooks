@@ -4,7 +4,7 @@ The scope of this project is to use all API knowledge gained throught the Softwa
 
 Tools used:Python,pytest
 
-versions used:
+imports used:
 - requests 2.31.0
 - pytest 8.0.1
 - pytest-html 4.1.1
